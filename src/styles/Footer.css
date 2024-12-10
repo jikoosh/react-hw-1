@@ -1,0 +1,18 @@
+.footer-container {
+  background-color: rgb(80, 80, 255);
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.names {
+  display: flex;
+  justify-content: space-around;
+  text-transform: uppercase;
+  margin-top: 160px;
+}
+.names > h3 {
+  width: 269px;
+  height: 216px;
+  left: 48px;
+}

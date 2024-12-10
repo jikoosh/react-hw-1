@@ -1,0 +1,71 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+}
+
+.text-section {
+  margin-top: 40px;
+  width: 450px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 27.72px;
+}
+
+h1 {
+  width: 624px;
+  height: 248px;
+  margin-top: 104px;
+  font-family: Roboto;
+  font-size: 124px;
+  font-weight: 400;
+  line-height: 123.84px;
+}
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 90px;
+}
+
+.try {
+  border-color: black;
+  color: #000;
+  border-radius: 50px;
+  padding: 8px;
+}
+
+.sign-up {
+  border-color: black;
+  color: black;
+  border-radius: 50px;
+  padding: 10px;
+  font-size: x-large;
+}
+
+.screenshot {
+  display: flex;
+  position: absolute;
+  bottom: 250px;
+
+  width: 672px;
+  height: 504px;
+  left: 64rem;
+  padding: 0px 9px 40px 35px;
+}
+
+.ferst {
+  margin-top: 100px;
+  text-transform: uppercase;
+  width: 243px;
+  height: 24px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.brands {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 80px;
+}
